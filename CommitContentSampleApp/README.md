@@ -22,7 +22,7 @@ Android 3.2 (API 13).
 With this API, you can build messaging apps that accept rich content from any keyboard, as well as
 keyboards that can send rich content to any app.
 
-[1]: https://android-dot-devsite.googleplex.com/preview/image-keyboard.html
+[1]control+ shifh + m 
 
 Pre-requisites
 --------------
@@ -34,7 +34,8 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="screenshots/screenshot1.png" height="400" alt="Screenshot"/> 
+<img src="screenshots/screenshot
+  1.png" height"400" alt="Screenshot"/> 
 
 Getting Started
 ---------------
